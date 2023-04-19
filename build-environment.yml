@@ -11,4 +11,4 @@ dependencies:
     - jupyterlite-xeus-python==0.8.0
     - sphinxcontrib-video
     - voici==0.3.3
-    - voila-material=0.4.3
+    - voila-material
